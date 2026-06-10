@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/overview.png" alt="GraphBEV++ overview" width="900">
+  <img src="./resources/overview.png" alt="GraphBEV++ overview" width="900">
 </p>
 
 ## Overview
@@ -50,7 +50,7 @@ occupancy estimation, and end-to-end planning.
 ## Method
 
 <p align="center">
-  <img src="./assets/framework.png" alt="GraphBEV++ framework" width="950">
+  <img src="./resources/framework.png" alt="GraphBEV++ framework" width="950">
 </p>
 
 | Component | Stage | Purpose | Variants |
@@ -59,8 +59,8 @@ occupancy estimation, and end-to-end planning.
 | **GlobalAlign-v2** | BEV fusion | Aligns spatial shifts and semantic inconsistencies between heterogeneous BEV features | Deformable, Diffusion |
 
 <p align="center">
-  <img src="./assets/local-align.png" alt="LocalAlign-v2" width="48%">
-  <img src="./assets/global-align.png" alt="GlobalAlign-v2" width="48%">
+  <img src="./resources/local-align.png" alt="LocalAlign-v2" width="48%">
+  <img src="./resources/global-align.png" alt="GlobalAlign-v2" width="48%">
 </p>
 
 ## Main Results
@@ -84,7 +84,7 @@ occupancy estimation, and end-to-end planning.
 | **GraphBEV++ (Query)** | **51.1** | **0.38** | **0.52** | **7.7** | 64.5 |
 
 <p align="center">
-  <img src="./assets/robustness.png" alt="GraphBEV++ robustness analysis" width="760">
+  <img src="./resources/robustness.png" alt="GraphBEV++ robustness analysis" width="760">
 </p>
 
 ## Official Implementation
@@ -127,7 +127,7 @@ This repository also provides a dependency-free academic project page.
 |-- index.html          # Project page
 |-- style.css           # Page styles
 |-- script.js           # Tabs and citation-copy interaction
-|-- assets/             # Method and result figures
+|-- resources/             # Method and result figures
 |-- paper.pdf           # Paper
 `-- README.md
 ```
