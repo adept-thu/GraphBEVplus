@@ -6,7 +6,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-B31B1B?logo=adobeacrobatreader&logoColor=white)](./paper.pdf)
 [![Code](https://img.shields.io/badge/Code-GraphBEVplus-181717?logo=github)](https://github.com/adept-thu/GraphBEVplus)
-[![Project Page](https://img.shields.io/badge/Project-Page-0A7EA4?logo=googlechrome&logoColor=white)](./index.html)
+[![Project Page](https://img.shields.io/badge/Project-Page-0A7EA4?logo=googlechrome&logoColor=white)](https://modaxiansheng.github.io/GraphBEVplus/)
 
 **Ziying Song · Hongyu Pan · Lin Liu · Shaoqing Xu · Lei Yang · Caiyan Jia · Yadan Luo**
 
