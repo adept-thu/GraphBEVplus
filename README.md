@@ -34,6 +34,16 @@ GraphBEV++ supports both dense LSS-based and sparse query-based BEV
 representations, and generalizes across 3D detection, tracking, prediction,
 occupancy estimation, and end-to-end planning.
 
+## Implementation Versions
+
+This repository provides two versions of GraphBEV++ for different autonomous driving settings:
+
+* **End-to-End Autonomous Driving Version**: maintained in the [`main`](https://github.com/adept-thu/GraphBEVplus/tree/main) branch, covering multi-task perception, prediction, occupancy estimation, and planning.
+* **3D Object Detection Version**: maintained in the [`3DOD`](https://github.com/adept-thu/GraphBEVplus/tree/3DOD) branch, focusing on robust multi-modal 3D object detection under camera-LiDAR misalignment.
+
+Please choose the corresponding branch according to your research task.
+
+
 ## Highlights
 
 - **Unified alignment:** corrects misalignment at both BEV construction and
