@@ -101,7 +101,7 @@ Follow the upstream guides to prepare the environment and nuScenes dataset:
 
 - [Installation](https://github.com/adept-thu/GraphBEVplus/blob/main/resources/INSTALL.md)
 - [Dataset preparation](https://github.com/adept-thu/GraphBEVplus/blob/main/resources/DATA_PREPARE.md)
-- [Training and evaluation](https://github.com/adept-thu/GraphBEVplus/blob/main/resources/TRAIN_EVAL.md)
+- [Training and evaluation](https://github.com/adept-thu/GraphBEVplus/blob/main/docs/TRAIN_EVAL.md)
 
 Train the published query-based configuration on four GPUs:
 
