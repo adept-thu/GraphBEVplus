@@ -136,19 +136,7 @@ Open `index.html` directly for a local preview. To publish with GitHub Pages,
 open the repository's **Settings > Pages**, select **Deploy from a branch**,
 and choose the default branch with `/ (root)`.
 
-## Citation
 
-If GraphBEV++ is useful in your research, please cite:
-
-```bibtex
-@article{song2026graphbevplusplus,
-  title   = {GraphBEV++: Multi-Modal Feature Alignment for Autonomous Driving},
-  author  = {Song, Ziying and Pan, Hongyu and Liu, Lin and Xu, Shaoqing and
-             Yang, Lei and Jia, Caiyan and Luo, Yadan},
-  journal = {International Journal of Computer Vision},
-  year    = {2026}
-}
-```
 
 ## Acknowledgements
 
